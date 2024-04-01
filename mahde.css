@@ -1,0 +1,21 @@
+.service{
+    background-color: white;
+    text-align: center;
+}
+p{color: gray;}
+.sturdy{
+    text-align: center;
+}
+.uptodate{
+    text-align: center;
+}  
+.ready{
+    text-align: center;
+}
+.made{
+    text-align: center;
+}
+.services{
+    display: inline-block;
+    width: 25%;
+}
